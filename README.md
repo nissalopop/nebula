@@ -6,7 +6,7 @@
 
 # YOU GET NEBULA.bluepint
 
-`mv nebula.blueprint /www/var/pterodactyl`
+`mv nebula.blueprint /var/www/pterodactyl`
 
 # ORTHER INFORMATION
 `https://blueprint.zip`
